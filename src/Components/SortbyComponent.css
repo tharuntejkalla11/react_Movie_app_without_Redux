@@ -1,0 +1,28 @@
+
+.sortbydiv{
+    display: flex;
+/*     justify-content: space-between; */
+    align-items: center;
+    background-color: rgb(116, 103, 103);
+    color: white;
+    height: 3rem;
+}
+.divWithSortBy{
+    display: flex;
+    justify-content: right;
+    margin-left: 45rem;
+}
+
+#MoviesFoundText{
+    margin-top: auto;
+}
+.SortByText{
+    margin-top: auto;
+}
+
+#buttonsInSortBy1{
+    margin-left: 1rem;
+}
+#buttonsInSortBy2 {
+    margin-left: 0.7rem;
+}
